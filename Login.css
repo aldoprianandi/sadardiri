@@ -1,0 +1,37 @@
+.orange{
+    color: #F3906E;
+}
+
+body{
+    background-color: #E6E7F4;
+}
+
+
+label.Sadar_Diri{
+    display: inline-block;
+    color: black;
+    font-size: 25px;
+    line-height: 80px;
+    font-family:fantasy;
+    padding-left:100px;
+    padding-top: 25px;
+}
+
+.border{
+    border: 5px;
+    border-radius: 25px;
+    background-color: white;
+    margin-top: 20%;
+}
+
+.form_input{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.masuk{
+padding-left: 50px;
+   background-color: #F3906E;
+   color: white;
+   padding-right: 50px;
+}
